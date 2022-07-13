@@ -2,14 +2,14 @@
 ![Printscreen of the dashboard tab](https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_dashboard_on.png "Printscreen of the dashboard tab")
 
 <div style="display: flex; justify-content: space-between;">
-    <div>
+    <span>
         <h3>Side panel</h3>
         <img alt="Printscreen of the side panel" src="https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_side_panel.png" height="604">
-    </div>
-    <div>
+    </span>
+    <span>
         <h3>Detail</h3>
         <img alt="Detail of a particular service" src="https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_service_detail.png" height="604">
-    </div>
+    </span>
 </div>
 
 ### Spectrogram
