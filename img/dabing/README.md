@@ -1,11 +1,16 @@
 ### Dashboard tab
 ![Printscreen of the dashboard tab](https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_dashboard_on.png "Printscreen of the dashboard tab")
 
-### Side panel
-<img alt="Printscreen of the side panel" src="https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_side_panel.png" height="604">
-
-### Detail
-<img alt="Detail of a particular service" src="https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_service_detail.png" height="604">
+<div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 1em;">
+    <div>
+        <h3>Side panel</h3>
+        <img alt="Printscreen of the side panel" src="https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_side_panel.png" height="604">
+    </div>
+    <div>
+        <h3>Detail</h3>
+        <img alt="Detail of a particular service" src="https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_service_detail.png" height="604">
+    </div>
+</div>
 
 ### Spectrogram
 ![Printscreen of the spectrogram section](https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_spectrogram.png "Printscreen of the spectrogram section")
