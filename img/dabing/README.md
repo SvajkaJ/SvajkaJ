@@ -1,7 +1,7 @@
 ### Dashboard tab
 ![Printscreen of the dashboard tab](https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_dashboard_on.png "Printscreen of the dashboard tab")
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 1em;">
+<div style="display: flex; justify-content: space-between;">
     <div>
         <h3>Side panel</h3>
         <img alt="Printscreen of the side panel" src="https://github.com/SvajkaJ/SvajkaJ/blob/main/img/dabing/frontend_side_panel.png" height="604">
