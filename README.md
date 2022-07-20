@@ -45,3 +45,10 @@
 - MaterialUI
 - MockAPI
 - 💻 [Source code](https://github.com/SvajkaJ/todo-app)
+
+## Wordpress website
+- Simple Wordpress website regarding family's friend business.
+- Wordpress
+- graphical design
+- webhosting setup
+- 🌐 [Website](https://opravasnv.sk/)
