@@ -7,7 +7,7 @@
 # Projects
 ## Resistor Combination Calculator
 - Calculates best possible combinations of two resistors in series or parallel to get the wanted value.
-- 🌐 [Website](http://svajkaj.com/)
+- 📷 [Pictures](https://github.com/SvajkaJ/SvajkaJ/blob/main/img/resistor-combination-calculator/README.md)
 
 ## Dabing (Master's thesis)
 - **Title:** Monitoring device of the DAB+ broadcasting
