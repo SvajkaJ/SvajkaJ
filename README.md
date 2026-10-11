@@ -42,14 +42,6 @@
 - 📷 [Pictures](https://github.com/SvajkaJ/SvajkaJ/blob/main/img/Termalizator/README.md)
 - 💻 [Source code](https://github.com/straker741/Termalizator)
 
-## toy example of todo-app
-- It is a very crude implementation of the typical todo application.
-- ReactJS
-- Typescript
-- MaterialUI
-- MockAPI
-- 💻 [Source code](https://github.com/SvajkaJ/todo-app)
-
 ## Wordpress website
 - Simple Wordpress website regarding family's friend business.
 - Wordpress
